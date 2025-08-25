@@ -1,5 +1,5 @@
 //Yvan Wang
-public class SimpleOp{
+public class exercise{
     public static void main(String[]args){
       
       //exercise 7
