@@ -1,3 +1,4 @@
+//Yvan Wang
 public class Celebrity{
     public static void main(String[]args){
         String s1 = "Allan Alda";
